@@ -93,6 +93,31 @@ Por lo tanto tenemos:
 
 # CAP 12
 
+**1. (a) Encuentre la capacitancia cuando Q = 50 microC y V = 10 V. (b) Determine la carga cuando C = 0.001 microF y V = 1 kV. (c) Determine el voltaje cuando Q = 2 mC y C = 200 microF.** 
+
+
+
+**3. Transforme los siguientes valores de picofarads a microfarads:(a) 1000 pF (b) 3500 pF (c) 250 pF**
+
+
+**5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?**
+
+
+**7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er. (a) aire (b) aceite (c) vidrio (d) Teflón**
+
+
+
+**9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5 x 10^4 m. Calcule la capacitancia**
+
+
+
+**11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^5 de espesor. ¿Cuál es la capacitancia de su capacitor?**
+
+
+
+**13. Un capacitor de 0.001 microF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?**
+
+
 
 # VIDEO
 
