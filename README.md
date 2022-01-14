@@ -13,6 +13,7 @@
 
 # MARCO TEORICO
 
+![cap11-2](https://user-images.githubusercontent.com/93361435/149431078-764be1ae-5245-40b8-b6a8-eea24314410b.jpg)
 
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
