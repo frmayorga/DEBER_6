@@ -206,6 +206,35 @@ Observamos que la cerámica tiene una constante dieléctrica mayor.
 Los capacitores de aluminio y tantalio. Estos se diferencian de los demás ya que estan polarizados. 
 
 
+#### 39) Determine la constante de tiempo para el circuito de la figura 12-77.
+![image](https://user-images.githubusercontent.com/93398718/149633914-3495ba10-0a4b-4a2c-9310-ea6b5e740718.png)
+
+
+
+#### 41) 
+- (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+- (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
+![image](https://user-images.githubusercontent.com/93398718/149633973-2cad79b6-4dbe-408c-b896-fbe18ad25334.png)
+
+
+#### 43) En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso. 
+
+
+#### 45) Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
+
+
+#### 47) Determine la potencia verdadera y la potencia reactiva en el problema 46.
+
+
+#### 49) Determine el valor de C1 en la figura 12-82. 
+
+
+#### 51) Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+
+
+
+#### 53) En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
+
 
 
 # VIDEO
