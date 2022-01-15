@@ -140,15 +140,28 @@ Obteniendo un voltaje pico de 0.6 V y un periodo de 500 milisegundos.
 
 # CAP 12
 
-**1. (a) Encuentre la capacitancia cuando Q = 50 microC y V = 10 V. (b) Determine la carga cuando C = 0.001 microF y V = 1 kV. (c) Determine el voltaje cuando Q = 2 mC y C = 200 microF.** 
+**1. (a) Encuentre la capacitancia cuando Q = 50 microC y V = 10 V.** 
 
+![image](https://user-images.githubusercontent.com/93361435/149623972-3d21a46a-955e-41b8-bbd0-9554e7ecfb14.png)
+
+**(b) Determine la carga cuando C = 0.001 microF y V = 1 kV.**
+
+![image](https://user-images.githubusercontent.com/93361435/149623985-e0151802-1341-4c98-8521-43130a619735.png)
+
+**(c) Determine el voltaje cuando Q = 2 mC y C = 200 microF.** 
+
+![image](https://user-images.githubusercontent.com/93361435/149624016-5403a1a5-724c-4e00-b56b-271a0b413817.png)
 
 
 **3. Transforme los siguientes valores de picofarads a microfarads:(a) 1000 pF (b) 3500 pF (c) 250 pF**
 
+Recorremos el punto decimal 6 posiciones a la izquierda obteniendo asi: 
+
+![image](https://user-images.githubusercontent.com/93361435/149624108-92c783b6-5624-4452-be7d-daf4b84dfcf4.png)
 
 **5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?**
 
+![image](https://user-images.githubusercontent.com/93361435/149624295-f564bd55-a75f-40be-b101-aba4fe2d3e54.png)
 
 **7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er. (a) aire (b) aceite (c) vidrio (d) Teflón**
 
