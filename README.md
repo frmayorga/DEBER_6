@@ -55,15 +55,19 @@ T=(1/f) -> T=(1/5*10us) -> T=200Ms
 
 #### 11) Transforme los siguientes valores angulares de grados a radianes:
 ![image](https://user-images.githubusercontent.com/93398718/149611834-dfbe69a8-5b9c-4448-8067-28d0bc90fd41.png)
+- resolucion:  
+![image](https://user-images.githubusercontent.com/93398718/149632377-f6fef781-236b-40e6-a379-d398bc582c96.png)  
 
 
 
 #### 13) Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
 
+- el angulo de fase entre A y B es 15° y A es adelantada respecto a B.
 
 #### 15) Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
 
-
+- resolucion:  
+![image](https://user-images.githubusercontent.com/93398718/149633356-c040ee1c-6224-459f-9e2d-2dc33f8ad521.png)
 
 
 
