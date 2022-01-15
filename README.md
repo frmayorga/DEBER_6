@@ -24,6 +24,38 @@
 
 # CAP 11 
 
+#### 1) Calcule la frecuencia con cada uno de los siguientes valores de periodo:
+![image](https://user-images.githubusercontent.com/93398718/149611733-3d3db82c-3212-4044-8b35-3e436bbe25af.png)
+
+
+
+#### 3) Una onda seno realiza 5 ciclos en 10 ms. ¿Cuál es su periodo?
+
+
+#### 5) La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
+
+
+#### 7) ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
+
+
+
+#### 9) El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores:
+![image](https://user-images.githubusercontent.com/93398718/149611792-ced9c2dd-2eab-4aaa-acbf-935e46833bc6.png)
+
+
+
+#### 11) Transforme los siguientes valores angulares de grados a radianes:
+![image](https://user-images.githubusercontent.com/93398718/149611834-dfbe69a8-5b9c-4448-8067-28d0bc90fd41.png)
+
+
+
+#### 13) Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
+
+
+#### 15) Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
+
+
+
 
 
 **31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V, ¿qué tan negativa llegaría a ser la onda seno?**
