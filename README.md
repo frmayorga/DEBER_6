@@ -25,23 +25,32 @@
 # CAP 11 
 
 #### 1) Calcule la frecuencia con cada uno de los siguientes valores de periodo:
-![image](https://user-images.githubusercontent.com/93398718/149611733-3d3db82c-3212-4044-8b35-3e436bbe25af.png)
+![image](https://user-images.githubusercontent.com/93398718/149611733-3d3db82c-3212-4044-8b35-3e436bbe25af.png)  
+- resolucion:  
+![image](https://user-images.githubusercontent.com/93398718/149613092-060bb272-fe60-47ee-bcc5-c34767800d27.png)
 
 
 
 #### 3) Una onda seno realiza 5 ciclos en 10 ms. ¿Cuál es su periodo?
 
+- resolucion:
+
+T=(1/f) -> T=(1/5*10us) -> T=200Ms
 
 #### 5) La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
 
+- como el generador es monofasico la frecuencia es igual a sus revoluciones por segundo, f=250Hz
 
 #### 7) ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
 
+- resolucion:  
+![image](https://user-images.githubusercontent.com/93398718/149614199-ca53f711-7c4e-4232-a833-68daf6d00554.png)  
 
 
 #### 9) El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores:
-![image](https://user-images.githubusercontent.com/93398718/149611792-ced9c2dd-2eab-4aaa-acbf-935e46833bc6.png)
-
+![image](https://user-images.githubusercontent.com/93398718/149611792-ced9c2dd-2eab-4aaa-acbf-935e46833bc6.png)  
+- resolucion:    
+![image](https://user-images.githubusercontent.com/93398718/149615287-5dd23993-48de-4278-848c-d84ad14176c5.png)
 
 
 #### 11) Transforme los siguientes valores angulares de grados a radianes:
