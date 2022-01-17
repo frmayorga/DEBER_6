@@ -55,16 +55,17 @@ T=(1/f) -> T=(1/5*10us) -> T=200Ms
 
 #### 11) Transforme los siguientes valores angulares de grados a radianes:
 ![image](https://user-images.githubusercontent.com/93398718/149611834-dfbe69a8-5b9c-4448-8067-28d0bc90fd41.png)
-
+- proceso:  
+![image](https://user-images.githubusercontent.com/93398718/149808605-383b8d55-c66f-4834-ae54-50e77727cfaf.png)
 
 
 #### 13) Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
 
+- B esta atrasodo con respecto a A y el angulo de fase es 15.
 
 #### 15) Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
 
-
-
+![image](https://user-images.githubusercontent.com/93398718/149809411-3b41c23e-3c9e-4962-9608-f80caa6ae046.png)  
 
 
 **31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V, ¿qué tan negativa llegaría a ser la onda seno?**
