@@ -15,6 +15,7 @@
 # MARCO TEORICO
 
 
+![deber 6](https://github.com/frmayorga/DEBER_6/blob/main/deber%206.jpg) 
 ![cap11-2](https://user-images.githubusercontent.com/93361435/149431078-764be1ae-5245-40b8-b6a8-eea24314410b.jpg)
 
 ![cap12-1](https://user-images.githubusercontent.com/93361435/149547463-f6c77245-e6cb-496d-bfa0-80ecbc3283e0.jpg)
