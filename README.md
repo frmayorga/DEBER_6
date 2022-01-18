@@ -354,6 +354,7 @@ https://youtu.be/oWy9Rqz848A
 
 # CONCLUSIONES 
 - estudiando el comportamiento de graficas sinusoideales pudemos comprender que ellas son capaces de descrivir el comportamiento de la corriente o voltaje tanto en circuitos de ca como en circuitos de cd, entre otras cosas cabe destacar que fue interezante saber como se ralciona el periodo y la frecuencia con la funcion sinuisoidal.
+- mediante la teoria se puede dar cuenta que los ca y cd se aplica faborable mente en los ejercicios de resolucion de este trabajo, logrando asi que los conocimientos previos sean de base para un mejor aprendizaje. 
 
 # BIBLIOGRAFÍA
 
