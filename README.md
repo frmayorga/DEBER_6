@@ -252,7 +252,8 @@ Los capacitores de aluminio y tantalio. Estos se diferencian de los demás ya qu
 
 #### 47) Determine la potencia verdadera y la potencia reactiva en el problema 46.
 
-
+- De manera ideal, toda la energía guardada por un capacitor durante la parte positiva del ciclo de potencia se regresa a la fuente durante la parte negativa. No se pierde energía neta por causa de la conversión de calor en el capacitor, de modo que la potencia real es de cero.
+- Pr= Irms^(2)*xc -> P=(1mA)^(2)*(3.38kohm) -> Pr=3.38mW 
 
 #### 49) Determine el valor de C1 en la figura 12-82. 
 
