@@ -222,10 +222,20 @@ Los capacitores de aluminio y tantalio. Estos se diferencian de los demás ya qu
 #### 41) 
 - (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
 
+- se procede calculando el valor de t donde t=RC -> t=0.014s, buscamos que valor de porcentaje le corresponde en la siguiente tabla:    
+![image](https://user-images.githubusercontent.com/93398718/149860493-12f92fb6-0937-4647-9832-af848af789b3.png)  
+
+
+- se concluyo que vf=3.12V y que vf en el siguiente caso sera 0 con t=225ms, de esta manera la grafica nos queda de la siguiente manera:  
+![image](https://user-images.githubusercontent.com/93398718/149859911-b7979021-feb0-432c-901c-42871bb61226.png)
 
 
 - (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
-![image](https://user-images.githubusercontent.com/93398718/149633973-2cad79b6-4dbe-408c-b896-fbe18ad25334.png)
+- procedemos de la misma forma que en el caso anterior y obtenemos el siguiente grafico:  
+![image](https://user-images.githubusercontent.com/93398718/149861584-c4cd1592-5160-4f31-8660-c82bf46621bd.png)  
+
+
+![image](https://user-images.githubusercontent.com/93398718/149633973-2cad79b6-4dbe-408c-b896-fbe18ad25334.png)  
 
 
 #### 43) En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso. 
