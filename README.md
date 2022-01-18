@@ -11,6 +11,9 @@
 
 ## OBJETIVOS ESPECIFICOS
 
+- analizar el comportaminto de las graficas sinosuidal, sus caracteristicas y aplicaciones.
+
+- Descubrir la importancia de los capacitores, como aplicarlos a circuitos de ca y cd.
 
 # MARCO TEORICO
 
@@ -350,7 +353,7 @@ Los capacitores de aluminio y tantalio. Estos se diferencian de los demás ya qu
 
 
 # CONCLUSIONES 
-
+- estudiando el comportamiento de graficas sinusoideales pudemos comprender que ellas son capaces de descrivir el comportamiento de la corriente o voltaje tanto en circuitos de ca como en circuitos de cd, entre otras cosas cabe destacar que fue interezante saber como se ralciona el periodo y la frecuencia con la funcion sinuisoidal.
 
 # BIBLIOGRAFÍA
 
