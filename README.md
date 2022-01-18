@@ -210,10 +210,15 @@ Los capacitores de aluminio y tantalio. Estos se diferencian de los demás ya qu
 #### 39) Determine la constante de tiempo para el circuito de la figura 12-77.
 ![image](https://user-images.githubusercontent.com/93398718/149633914-3495ba10-0a4b-4a2c-9310-ea6b5e740718.png)
 
+- resolucion:  
+![image](https://user-images.githubusercontent.com/93398718/149850187-e1b514ea-9506-4f18-991c-6c99bfd89197.png)
 
 
 #### 41) 
 - (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+
+
+
 - (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
 ![image](https://user-images.githubusercontent.com/93398718/149633973-2cad79b6-4dbe-408c-b896-fbe18ad25334.png)
 
