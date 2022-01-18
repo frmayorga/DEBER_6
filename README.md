@@ -84,6 +84,8 @@ T=(1/f) -> T=(1/5*10us) -> T=200Ms
 
 ![image](https://user-images.githubusercontent.com/93561706/149878468-877350d8-0a84-451a-81c5-2c9c36d57b85.png)
 
+En la grafica la funcion azul es A, la vere es B y la roja es C.
+
 #### 25) Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
 
 ![image](https://user-images.githubusercontent.com/93561706/149878485-8a7fcf50-f761-4598-b21f-eada87dd0986.png)
