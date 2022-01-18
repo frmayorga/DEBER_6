@@ -23,7 +23,7 @@
 
 ![cap12-1](https://user-images.githubusercontent.com/93361435/149547463-f6c77245-e6cb-496d-bfa0-80ecbc3283e0.jpg)
 
-
+![cap 12-2](https://user-images.githubusercontent.com/93561706/149952419-311ac55c-168e-4745-9a3b-d0019de5b461.png)
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
