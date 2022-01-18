@@ -7,6 +7,7 @@
 
 ## OBJETIVO GENERAL
 
+- Determinar a tráves de la investigación la definicion de la onda sinosuidal y las caracteristicas de esta en circuitos eléctricos, además aprender acerca de los capacitores, las caracteristicas de estos y sus aplicaciones, el sustento teórico será de ayuda para la resolución de ejercicios 
 
 ## OBJETIVOS ESPECIFICOS
 
