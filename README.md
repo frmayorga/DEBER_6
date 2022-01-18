@@ -247,8 +247,11 @@ Los capacitores de aluminio y tantalio. Estos se diferencian de los demás ya qu
 
 #### 45) Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
 
+- resolucion:
+- Irms=Vrms/xc -> xc= 200 Ohms
 
 #### 47) Determine la potencia verdadera y la potencia reactiva en el problema 46.
+
 
 
 #### 49) Determine el valor de C1 en la figura 12-82. 
