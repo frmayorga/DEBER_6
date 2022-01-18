@@ -137,6 +137,11 @@ Obteniendo un voltaje pico de 0.6 V y un periodo de 500 milisegundos.
 
 ![image](https://user-images.githubusercontent.com/93361435/149548080-dc09d9f9-3221-41cb-88a0-fe25994835cf.png)
 
+Para el cálculo de la frecuencia tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/149856558-cd1eef42-3c96-460d-bf31-c26f174e3ba1.png)
+
+![image](https://user-images.githubusercontent.com/93361435/149856513-c02b25e7-642b-43ed-88ea-0f61b407ecdc.png)
 
 
 # CAP 12
