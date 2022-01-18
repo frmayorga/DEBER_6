@@ -257,6 +257,8 @@ Los capacitores de aluminio y tantalio. Estos se diferencian de los demás ya qu
 
 #### 49) Determine el valor de C1 en la figura 12-82. 
 
+![image](https://user-images.githubusercontent.com/93398718/149874794-a4532224-651c-4b4a-876b-ad6f4a82b380.png)
+
 
 #### 51) Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
 
