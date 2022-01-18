@@ -332,14 +332,16 @@ Los capacitores de aluminio y tantalio. Estos se diferencian de los demás ya qu
 #### 49) Determine el valor de C1 en la figura 12-82. 
 
 ![image](https://user-images.githubusercontent.com/93398718/149874794-a4532224-651c-4b4a-876b-ad6f4a82b380.png)
+- resolucion:  
+![image](https://user-images.githubusercontent.com/93398718/149883343-b1ba5f4d-084d-4cf5-a49e-7b0abc6f55db.png)
 
 
 #### 51) Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
 
-
+- va a disminuir, esto sucede porque el nuevo capacitor almacena una parte de la carga que suministra la fuente.
 
 #### 53) En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
-
+- R=T/C -> R=(0.010/2200pF) -> R=4.5454MOhms
 
 
 # VIDEO
