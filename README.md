@@ -68,6 +68,37 @@ T=(1/f) -> T=(1/5*10us) -> T=200Ms
 
 ![image](https://user-images.githubusercontent.com/93398718/149809411-3b41c23e-3c9e-4962-9608-f80caa6ae046.png)  
 
+#### 17) Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor instantáneo en cada uno de los siguientes puntos:
+
+![image](https://user-images.githubusercontent.com/93561706/149878382-adba1e11-cf48-4c6c-9034-e7eff4c6bfef.png)
+
+#### 19) La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V. La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B en: 30°, 45°, 90°, 180°, 200°, y 300°
+
+![image](https://user-images.githubusercontent.com/93561706/149878445-e2ff9e66-f0d9-4e7e-b513-7b755ae87fe1.png)
+
+#### 21) Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo dado (cruce por cero) en el instante t = 0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?
+
+#### 23) Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor representan valores pico.
+
+![image](https://user-images.githubusercontent.com/93561706/149878459-20f92f7b-0032-47b1-973c-f34b7bf8766d.png)
+
+![image](https://user-images.githubusercontent.com/93561706/149878468-877350d8-0a84-451a-81c5-2c9c36d57b85.png)
+
+#### 25) Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
+
+![image](https://user-images.githubusercontent.com/93561706/149878485-8a7fcf50-f761-4598-b21f-eada87dd0986.png)
+
+![image](https://user-images.githubusercontent.com/93561706/149878501-fe68dd99-b797-4065-bad4-c8bf543f7624.png)
+
+#### 27) Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2 en la figura 11-81. Todos los valores mostrados son rms.
+
+![image](https://user-images.githubusercontent.com/93561706/149878524-0e07f447-d238-4d56-bc72-02d68b09d775.png)
+
+![image](https://user-images.githubusercontent.com/93561706/149878557-e7dab923-2f2a-4897-b9d3-eb91d665c9de.png)
+
+#### 29) Una onda seno con valor rms de 10.6 V aparece montada sobre un nivel de cd de 24 V. ¿Cuáles son los valores máximo y mínimo de la forma de onda resultante?
+
+![image](https://user-images.githubusercontent.com/93561706/149878597-02df3110-44bc-45ff-be95-14c107779e34.png)
 
 **31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V, ¿qué tan negativa llegaría a ser la onda seno?**
 
@@ -212,6 +243,47 @@ Observamos que la cerámica tiene una constante dieléctrica mayor.
 
 Los capacitores de aluminio y tantalio. Estos se diferencian de los demás ya que estan polarizados. 
 
+#### 19) Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68
+
+![image](https://user-images.githubusercontent.com/93561706/149878797-d5dd4189-8093-49e8-936d-634400e3215c.png)
+
+![image](https://user-images.githubusercontent.com/93561706/149878815-7d12f05e-6a00-4e22-b8ed-db9c863a638f.png)
+
+#### 21) Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
+
+![image](https://user-images.githubusercontent.com/93561706/149878838-dd0db4ba-5e03-4a9f-8d02-c43c91473eeb.png)
+
+#### 23) Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido
+
+![image](https://user-images.githubusercontent.com/93561706/149878852-30c4860c-7c89-40e2-9630-839e1b01281d.png)
+
+#### 25) Determine la CT para cada circuito de la figura 12-71.
+
+![image](https://user-images.githubusercontent.com/93561706/149878884-819708ae-76dd-4749-8d90-3e989cdd33b6.png)
+
+#### 27) Determine la CT para cada circuito de la figura 12-72
+
+![image](https://user-images.githubusercontent.com/93561706/149878918-4c9b0652-19b4-4762-88fe-36d439587f38.png)
+
+#### 29) Inicialmente, los capacitores del circuito de la figura 12-73 están descargados. (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente? (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
+
+![image](https://user-images.githubusercontent.com/93561706/149878944-4264922c-fd2e-4165-a5f1-1ae0a8e4a01e.png)
+
+#### 31) Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes: 
+
+![image](https://user-images.githubusercontent.com/93561706/149878982-2fb1c3e1-9c9f-4502-8369-c024104f08cb.png)
+
+#### 33) En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores? (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
+
+![image](https://user-images.githubusercontent.com/93561706/149879062-c9705734-2380-4ec5-bed9-aa14e5d5af12.png)
+
+#### 35) Repita el problema 33 con los siguientes tiempos: (a) 0.5 ms (b) 1 ms (c) 2 ms
+
+![image](https://user-images.githubusercontent.com/93561706/149879093-e4ad4f3b-3bbc-4b85-af09-2fe04bfaae96.png)
+
+#### 37) ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
+
+![image](https://user-images.githubusercontent.com/93561706/149879136-464b1ddc-ee3f-4eae-996b-f09a96744cf8.png)
 
 #### 39) Determine la constante de tiempo para el circuito de la figura 12-77.
 ![image](https://user-images.githubusercontent.com/93398718/149633914-3495ba10-0a4b-4a2c-9310-ea6b5e740718.png)
