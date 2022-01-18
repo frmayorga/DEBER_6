@@ -239,6 +239,9 @@ Los capacitores de aluminio y tantalio. Estos se diferencian de los demás ya qu
 
 
 #### 43) En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso. 
+![image](https://user-images.githubusercontent.com/93398718/149862596-3fed9fbb-5171-446c-9ef8-9988acc4b490.png)  
+
+
 
 
 #### 45) Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
